@@ -1,0 +1,23 @@
+:root, body, html {
+    margin: 20px;
+    margin-top: 0;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+  
+a:visited{
+    color: blue;
+}
+  
+h3{
+    color: rgb(64, 0, 138);
+}
+  
+ul{
+    margin: 0;
+    padding: 0;
+}
